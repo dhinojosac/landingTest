@@ -724,7 +724,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Desarrollamos PCBs de calidad y personalizadas según las necesidades del cliente, teniendo en cuenta que el tiempo es un factor clave para el mercado.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#form4-p\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-a\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#form4-p\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-9\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-814x1080.jpg",
@@ -741,7 +741,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Tenemos experiencia en trabajar con una amplia gama de plataformas, desde microcontroladores de 8 bits hasta computadores de varios núcleos. Considerando los requisitos claves escogeremos la mejor opción para tu desarrollo. &nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#form4-p\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-9\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#form4-p\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-a\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
