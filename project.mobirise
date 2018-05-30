@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-05-28_1625",
+    "name": "ManglarLabs",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -37,13 +37,16 @@
     "uniqCompNum": 19,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Manglar Labs",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -702,27 +705,10 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
-            "slides__autoplayInterval": 4000,
+            "slides__autoplay": true,
+            "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-814x1080.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "DESARROLLO DE SOFTWARE",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Tenemos experiencia en trabajar con una amplia gama de plataformas, desde microcontroladores de 8 bits hasta computadores de varios núcleos. Considerando los requisitos claves escogeremos la mejor opción para tu desarrollo. &nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
-              },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1621x1080.jpg",
                 "active": false,
@@ -738,7 +724,24 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Desarrollamos PCBs de calidad y personalizadas según las necesidades del cliente, teniendo en cuenta que el tiempo es un factor clave para el mercado.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#form4-5\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-a\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-814x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "DISEÑO &amp; DESARROLLO DE HARDWARE",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Tenemos experiencia en trabajar con una amplia gama de plataformas, desde microcontroladores de 8 bits hasta computadores de varios núcleos. Considerando los requisitos claves escogeremos la mejor opción para tu desarrollo. &nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#form4-5\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-9\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
@@ -755,11 +758,11 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Desde hogares e industrias hasta empresas. Las soluciones IoT permiten analizar los datos generados por sensores en objetos físicos en un mundo de dispositivos inteligentes interconectados.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" href=\"index.html#form4-5\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-b\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1567x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -772,7 +775,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Brindamos la orientación adecuada, prensentando las diversas opciones existentes en el mercado en cuanto a productos o tecnologías que mejor se adapten a tus necesidades.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" href=\"index.html#form4-5\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-c\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
               }
             ]
           }
