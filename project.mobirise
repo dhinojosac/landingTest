@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ManglarLabs",
-    "currentPage": "moreinfo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -724,7 +724,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Desarrollamos PCBs de calidad y personalizadas según las necesidades del cliente, teniendo en cuenta que el tiempo es un factor clave para el mercado.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#form4-5\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-a\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#form4-p\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-a\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-814x1080.jpg",
@@ -737,11 +737,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "DISEÑO &amp; DESARROLLO DE HARDWARE",
+                "title": "DESARROLLO DE SOFTWARE",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Tenemos experiencia en trabajar con una amplia gama de plataformas, desde microcontroladores de 8 bits hasta computadores de varios núcleos. Considerando los requisitos claves escogeremos la mejor opción para tu desarrollo. &nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#form4-5\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-9\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#form4-p\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-9\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
@@ -758,7 +758,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Desde hogares e industrias hasta empresas. Las soluciones IoT permiten analizar los datos generados por sensores en objetos físicos en un mundo de dispositivos inteligentes interconectados.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" href=\"index.html#form4-5\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-b\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" href=\"index.html#form4-p\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-b\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1567x1080.jpg",
@@ -775,7 +775,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Brindamos la orientación adecuada, prensentando las diversas opciones existentes en el mercado en cuanto a productos o tecnologías que mejor se adapten a tus necesidades.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" href=\"index.html#form4-5\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-c\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" href=\"index.html#form4-p\" data-toolbar=\"-mbrBtnMove\">CONTÁCTANOS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"moreinfo.html#header3-c\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>"
               }
             ]
           }
